@@ -1,0 +1,72 @@
+[
+    {
+        "active": true,
+        "description": "",
+        "descriptionTranslations": {
+            "en": ""
+        },
+        "displayName": "Purchasing Finder",
+        "displayNameTranslations": {
+            "de": "Purchasing Finder",
+            "en": "Purchasing Finder"
+        },
+        "download": "",
+        "formatCompact": false,
+        "internalName": "optimate_purchasing_finder",
+        "pages": [
+            {
+                "order": 0,
+                "page": "optimate_purchasing_finder_overview"
+            },
+            {
+                "order": 1,
+                "page": "optimate_purchasing_finder_dpo"
+            },
+            {
+                "order": 2,
+                "page": "optimate_purchasing_finder_otif"
+            }
+        ],
+        "scopeName": "",
+        "id": "",
+        "projectId": "",
+        "tenant": "",
+        "isCustom": true,
+        "metadataClassificationInternalName": ""
+    },
+    {
+        "active": true,
+        "description": "",
+        "descriptionTranslations": {
+            "en": ""
+        },
+        "displayName": "Sales Finder",
+        "displayNameTranslations": {
+            "en": "Sales Finder",
+            "de": "Sales Finder"
+        },
+        "download": "",
+        "formatCompact": false,
+        "internalName": "optimate_sales_finder",
+        "pages": [
+            {
+                "order": 0,
+                "page": "optimate_sales_finder_overview"
+            },
+            {
+                "order": 1,
+                "page": "optimate_sales_finder_dso"
+            },
+            {
+                "order": 2,
+                "page": "optimate_sales_finder_fot"
+            }
+        ],
+        "scopeName": "",
+        "id": "",
+        "projectId": "",
+        "tenant": "",
+        "isCustom": true,
+        "metadataClassificationInternalName": ""
+    }
+]
